@@ -1,0 +1,12 @@
+Universidade Federal do Ceara
+Disciplina de Programacao
+Professor: Fernando Trinta
+---------------------------------------------------------
+Matricula   Aluno     Nota1    Nota 2    Nota3        Media  
+---------------------------------------------------------
+3         a          10.00    5.00    6.00         7.00     
+1         b          10.00    4.00    5.00         6.33     
+2         c          10.00    5.00    8.00         7.67     
+---------------------------------------------------------
+Total de alunos 3
+Media da turma: 7.000000
